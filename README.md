@@ -1,4 +1,16 @@
-## Hi there 👋
+# Welcome @ Salathiel 👋
+
+Hi, I am Salathiel, a veteran software engineer.
+
+
+- 🔭 I’m currently working on modernizing the CI/CD pipelines of a mutinationale company, helping them migrate 30 years-ish software to cloud with battle-tested software engineering strategies (Lead DevOps).
+- 🌱 I’m currently learning about security hardening on Linux systems with SELinux, along with the intricacies of Kubernetes security (preparing for the Certified Kubernetes Security Specialist)
+- 👯 I’m looking to collaborate on... Actually, I may have a few things on my plate & TODO list already. But shoot your shoot, if you think you've got something special.
+- 🤔 I’m looking for help with mentoring a few more people into the industry.
+- 💬 Ask me about Linux, Container, Java, JavaScript, Rust, Go, Python, Shell, CI/CD, monitoring, system & software architectures, algorithms & data structures, distributed systems, data pipelines (Spark, Flink)...
+- 📫 How to reach me: Twitter `@SalathielGenese`, LinkedIn `/in/SalathielGenese`
+- 😄 Pronouns: Oh boy !!!
+- ⚡ Fun fact: I lost appetite somewhere in 2018 but Cameroonian gari has my unconditional appreciation.
 
 <!--
 **SalathielGenese/SalathielGenese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
